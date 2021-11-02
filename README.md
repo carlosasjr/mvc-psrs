@@ -1,4 +1,4 @@
-Projeto em PHP em MVC implantando as PSRs  
+Projeto PHP em MVC implantando as PSRs  
 
 PSR-4: Autoloading 
 PSR-7: HTTP message interfaces 
